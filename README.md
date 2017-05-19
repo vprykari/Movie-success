@@ -7,7 +7,7 @@ Predicting success of movies with machine learning techniques. The goal is to pr
 
 -Cleaning the data
 
--Analysis with ML methods
+-Analysis with ML methods (Naive Bayes, SVM, Logistic regression)
 
 
 
